@@ -1,2 +1,3 @@
-# ola_mundo
- Primeiro repositorio versionado GitHub Desktop 
+# Olá, Mundo!
+
+ Primeiro repositorio versionado usando a ferramenta GitHub Desktop.
